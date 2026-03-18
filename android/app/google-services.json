@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "693517614414",
+    "project_id": "test-b495b",
+    "storage_bucket": "test-b495b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693517614414:android:71159962bc0a7473edf21f",
+        "android_client_info": {
+          "package_name": "com.testone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqoOoumBQKz2gQcMZvE4u1IH2sjS6T7yA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
