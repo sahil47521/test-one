@@ -12,7 +12,7 @@ type SplashProps = NativeStackScreenProps<RootStackParamList, 'Splash'>;
 const SplashScreen = ({ navigation }: SplashProps) => {
     useEffect(() => {
         const timer = setTimeout(() => {
-            navigation.replace('Home')
+            navigation.replace('Auth')
         }, 2000);
 
         return () => clearTimeout(timer);
