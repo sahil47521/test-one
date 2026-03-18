@@ -12,7 +12,20 @@
           "package_name": "com.testone"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "693517614414-dhvfdr7ukrreeariac9ebt0gscjv506d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.testone",
+            "certificate_hash": "5dcd5e2f9e7b9dda00a4d37af72822abe83b9c15"
+          }
+        },
+        {
+          "client_id": "693517614414-q95bp48ufa9nu5goiiss8iq7t2a7p6ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBqoOoumBQKz2gQcMZvE4u1IH2sjS6T7yA"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693517614414-q95bp48ufa9nu5goiiss8iq7t2a7p6ib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
